@@ -106,6 +106,9 @@ Read the file and display
 
 
 <img width="1217" height="422" alt="0" src="https://github.com/user-attachments/assets/1c2b4417-901d-42d1-98e5-574cb22c4712" />
+
+
+
 Printing accuracy
 
 
