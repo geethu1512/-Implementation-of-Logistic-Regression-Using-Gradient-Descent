@@ -103,14 +103,22 @@ plt.show()
 
 ## Output:
 Read the file and display
+
+
 <img width="1217" height="422" alt="0" src="https://github.com/user-attachments/assets/1c2b4417-901d-42d1-98e5-574cb22c4712" />
 Printing accuracy
+
+
 <img width="400" height="45" alt="1c" src="https://github.com/user-attachments/assets/f3537bfd-7b82-4438-aaf0-0ef5579e4068" />
 
 Printing Y
+
+
 <img width="767" height="155" alt="2c" src="https://github.com/user-attachments/assets/da7dc842-b9fc-4628-92c3-4c40a6a89719" />
 
 Printing y_prednew
+
+
 <img width="351" height="63" alt="3c" src="https://github.com/user-attachments/assets/bf5fd31c-1020-4db1-ae79-87327b76350a" />
 
 
